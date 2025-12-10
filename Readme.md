@@ -70,7 +70,7 @@ Soy un **entusiasta de la programación** con la convicción de que la tecnolog�
 | **💡 Solución** | Plataforma unificada web/móvil para gestión académica integral |
 | **🛠 Stack** | MERN (MongoDB, Express, React, Node.js), JWT, Docker |
 | **📊 Mi Rol** | Arquitectura backend, diseño de BD, coordinación del equipo |
-| **🚀 Estado** | MVP en desarrollo, plan de lanzamiento para Q4 2024 |
+| **🚀 Estado** | MVP en desarrollo, plan de lanzamiento para Q4 2026 |
 
 </div>
 
